@@ -1,0 +1,75 @@
+#fondo{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-blanco-simple-lineas-suaves-colores-claros_476363-1954.jpg);
+ 
+}
+.body {
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+  }
+  .component {
+    color: var(--bs-gray-800);
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-blanco-panal_51543-116.jpg);
+    border: 1px solid var(--bs-gray-200);
+    border-radius: .25rem;
+  }
+ 
+  .heather{
+    color: var(--bs-purple);
+  }
+  #fondo_1{
+      background-image: url(https://concepto.de/wp-content/uploads/2014/08/redes-sociales-1-e1551307320533.jpg);
+      height: auto;
+  }
+  #fondo_2{
+background-image: url(https://disenowebakus.net/imagenes/articulos/introduccion-a-html.jpg);
+height: auto;
+ 
+  }
+  #fondo_3{
+      background-image: url(https://static8.depositphotos.com/1154062/1071/v/950/depositphotos_10712741-stock-illustration-white-crumpled-abstract-background.jpg);
+  }
+  #fondo_4{
+      background-image: url(https://previews.123rf.com/images/georgina198/georgina1981603/georgina198160300037/54981659-sobre-un-fondo-claro-hay-l%C3%ADneas-y-fragmentos-de-colores-que-forman-un-hermoso-dise%C3%B1o-.jpg);
+  }
+  #fondo_5{
+      background-image: url(https://us.123rf.com/450wm/aga7ta/aga7ta1512/aga7ta151200281/50230748-fondo-de-plata-de-aluminio-met%C3%A1lico-brillante.jpg?ver=6U);
+  }
+  #fondo_6{
+      background-image: url(https://s3.amazonaws.com/cdn.wp.m4ecmx/wp-content/uploads/2019/04/09194009/Las-redes-sociales-en-M%C3%A9xico-compressor.jpg);
+  }
+  #fondo_7{
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEOGooG05CEAOQxGV9NgjrbDOuHztvmL0ihiClF7pKg_LoDr-5Rz6V83KxaJvM2SOEMI&usqp=CAU)
+  }
+  #texto{
+      color: chocolate;
+      text-align: left;
+  }
+  .posicion_img{
+      float: right;
+  }
+#estilo{
+    color: blueviolet;
+    
+}
+#estilo_1{
+    color: darkgoldenrod;
+    
+}
+#estilo_2{
+    color: blue;
+}
+#estilo_3{
+    color: crimson;
+}
+#estilo_4{
+    color: whitesmoke;
+}
+.posicion_img_2{
+    float: right;
+}
+.tamaño_imagen{
+    padding: 10px 10px 10px 10px;
+
+
+}
